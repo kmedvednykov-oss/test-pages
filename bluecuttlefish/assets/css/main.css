@@ -1106,7 +1106,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     background-repeat: no-repeat;
     background: center center;
     background-size: contain;
-    background-image: url(../images/icons/icon-quote.svg);
+    background-image: url(../img/icons/icon-quote.svg);
     position: absolute;
     top: 4rem;
     left: 4rem;
@@ -1331,12 +1331,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .pgn__prev {
-    background-image: url("../images/icons/icon-arrow-left.svg");
+    background-image: url("../img/icons/icon-arrow-left.svg");
     left: 0;
 }
 
 .pgn__next {
-    background-image: url("../images/icons/icon-arrow-right.svg");
+    background-image: url("../img/icons/icon-arrow-right.svg");
     right: 0;
 }
 
@@ -1403,7 +1403,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .s-header__content {
     background-color: #ffffff;
-    background-image: url(../images/header-content-bg_@2x.png);
+    background-image: url(../img/header-content-bg_@2x.png);
     background-size: 361px 256px;
     background-repeat: no-repeat;
     background-position: right top;
@@ -1997,7 +1997,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .widget--search .submit-search {
     background-color: transparent !important;
-    background-image: url(../images/icons/icon-search.svg);
+    background-image: url(../img/icon-search.svg);
     background-size: contain;
     background-repeat: no-repeat;
     -webkit-box-shadow: none;
